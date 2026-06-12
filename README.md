@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=600&lines=I+am+a+3rd-year+IT+student;Exploring+the+world+of+Computer+Science;Welcome+to+my+GitHub+profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&width=600&lines=I+am+a+4th-year+IT+student;Exploring+the+world+of+Computer+Science;Welcome+to+my+GitHub+profile!">
 </p>
 
 <div align="center">
